@@ -50,3 +50,5 @@
 - Fake news detection technology can be integrated into educational programs to teach individuals critical thinking skills and how to evaluate the credibility of news sources.
 - Fake news detection algorithms can be implemented by social media platforms and online news aggregators to automatically identify and flag potentially false or misleading content. This helps prevent the rapid spread of misinformation through viral sharing.
 - Journalists and fact-checking organizations can utilize fake news detection tools to verify the accuracy of information before publishing news stories. Automated systems assist in identifying dubious claims or sources, ensuring reliable information dissemination.
+- https://github.com/MaheepSeharawat/Fake-News-Detector/blob/main/output%20fake%20news.jpg
+- 
